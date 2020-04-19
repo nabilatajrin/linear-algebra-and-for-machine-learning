@@ -1,4 +1,4 @@
-# linear-algebra-and-for-machine-learning
+# linear-algebra-for-machine-learning
 
 -how linear algebra is relevant to machine learning and data science.
 -For many of these operations, there are callable functions in Python that can do the adding up - the point is to appreciate what they do and how they work so that, when things go wrong or there are special cases, you can understand why and what to do.
@@ -12,5 +12,5 @@ Key Concepts:
 -Understand how to add vectors and multiply by a scalar number
 
 
-##The relationship between machine learning, linear algebra, and vectors and matrices:
+The relationship between machine learning, linear algebra, and vectors and matrices:
 
