@@ -1,4 +1,4 @@
-# linear-algebra-for-machine-learning
+# linear-algebra-and-for-machine-learning
 
 -how linear algebra is relevant to machine learning and data science.
 -For many of these operations, there are callable functions in Python that can do the adding up - the point is to appreciate what they do and how they work so that, when things go wrong or there are special cases, you can understand why and what to do.
@@ -13,4 +13,18 @@ Key Concepts:
 
 
 The relationship between machine learning, linear algebra, and vectors and matrices:
+
+
+
+Vector
+A vector may refer to any of the following:
+
+vector
+1. In computer programming, a vector is either a pointer or an array with only one dimension.
+
+2. In mathematics, a vector is a quantity with both a magnitude and direction.
+
+3. In computer graphics, the term vector describes a line with a starting and ending point. See our vector graphic term for further information.
+
+4. In computer security, the term attack vector refers to a particular method for exploiting a system vulnerability.
 
