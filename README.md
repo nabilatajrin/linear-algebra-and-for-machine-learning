@@ -1,7 +1,7 @@
 # linear-algebra-and-for-machine-learning
 
 
-Vector
+Vector: 
 A vector may refer to any of the following:
 
 
