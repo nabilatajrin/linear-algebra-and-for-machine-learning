@@ -1,16 +1,5 @@
 # linear-algebra-and-for-machine-learning
 
-Key Concepts:
--Recall how machine learning and vectors and matrices are related
--Interpret how changes in the model parameters affect the quality of the fit to the training data
--Recognize that variations in the model parameters are vectors on the response surface - that vectors are a generic concept not limited to a physical real space
--Use substitution / elimination to solve a fairly easy linear algebra problem
--Understand how to add vectors and multiply by a scalar number
-
-
-The relationship between machine learning, linear algebra, and vectors and matrices:
-
-
 
 Vector
 A vector may refer to any of the following:
