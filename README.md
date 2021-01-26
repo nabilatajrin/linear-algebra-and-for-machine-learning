@@ -15,9 +15,10 @@ A vector may refer to any of the following:
 
 
 
-
-
 What is vector?
 https://medium.com/@nabilatajrin/what-is-a-vector-5c86fc2b57c1
+
+Solving simultaneous equations using matrices:
+https://medium.com/intelligentmachines/solving-simultaneous-equations-using-matrices-83fa57537a19
 
 
